@@ -19,6 +19,10 @@ I'm a beginning frontend/backend developer that's looking for his first job, rig
 - Css
 - SASS/SCSS
 
+### The projects I made
+
+There are couple of projects I haven't attached here, for instance a simple frontend form with nodejs backend that makes a refund pdf for a friend (<a href="https://equicksell-c956b.web.app/">QuickSell Form</a>), fiszkando-frontend, which is available in friends repo(<a href="https://github.com/Szocik01/Fiszkando-frontend">Frontend</a>), and couple more that i can't really find but i know about their existance :dizzy:
+
 ### What I'm the most proud of?
 <p align="center"> :dizzy::star2::star2: <a href="https://sciborowka.pl">Ściborówka</a> :star2::star2::dizzy:</p>
 
