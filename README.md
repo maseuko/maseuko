@@ -15,13 +15,16 @@ I'm a beginning frontend/backend developer that's looking for his first job, rig
 - MySql
 - Rest API
 - MongoDB
-
-
+- HTML
+- Css
+- SASS/SCSS
 
 #### What I'm the most proud of?
 <p align="center"> :star2::star2: <a href="https://sciborowka.pl">Ściborówka</a> :star2::star2:</p>
 
+That project combined most of my knowledge, I builded it from scratch in vue, with a spring application at backend, It's also hosted on my own VPS on Linux Ubuntu somewhere in a web, I generated my own SSL, configured the Nginx on my own, redirect correctly DNS to point at what i want it to point and puff, it display on the screen from any device i want to. My favorite sentence is "If you don't know how to do it, look for an answears, somone faced that issue for sure so there's gotta be an answear!". So there is no excuses in building anything! You just gotta be stubborn and focused on your goal :soccer:
 
+You can look at my solutions I faced building that page in my repos :blush:
 
 <!--
 **maseuko/maseuko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
