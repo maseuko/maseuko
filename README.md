@@ -19,7 +19,7 @@ I'm a beginning frontend/backend developer that's looking for his first job, rig
 
 
 #### What I'm the most proud of?
-<p align="center">:star2::star2:[Ściborówka](https://sciborowka.pl):star2::star2:</p>
+<p align="center"> :star2::star2: [Ściborówka](https://sciborowka.pl) :star2::star2:</p>
 
 
 
